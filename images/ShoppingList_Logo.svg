@@ -1,0 +1,18 @@
+<svg width="845" height="767" viewBox="0 0 845 767" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="422" cy="383" r="356" fill="#85A85C"/>
+<g style="mix-blend-mode:color-dodge">
+<rect x="288" y="441" width="306" height="50" rx="20" fill="#C4C4C4"/>
+<rect x="202" y="226.878" width="105" height="50" rx="20" fill="#C4C4C4"/>
+<rect x="306.708" y="225" width="264.415" height="50" rx="21" transform="rotate(83.7982 306.708 225)" fill="#C4C4C4"/>
+<circle cx="346" cy="534.878" r="31" fill="#C4C4C4"/>
+<circle cx="536" cy="534.878" r="31" fill="#C4C4C4"/>
+<rect width="25" height="25" transform="matrix(-1 0 0 1 356 240)" stroke="#848484" stroke-width="11" stroke-linejoin="round"/>
+<rect x="376" y="237" width="244" height="30" rx="15" fill="#848484"/>
+<rect width="25" height="25" transform="matrix(-1 0 0 1 362 293)" stroke="#848484" stroke-width="11" stroke-linejoin="round"/>
+<rect x="382" y="290" width="231" height="30" rx="15" fill="#848484"/>
+<rect width="25" height="25" transform="matrix(-1 0 0 1 368 346)" stroke="#848484" stroke-width="11" stroke-linejoin="round"/>
+<rect x="388" y="343" width="215" height="30" rx="15" fill="#848484"/>
+<rect width="25" height="25" transform="matrix(-1 0 0 1 374 399)" stroke="#848484" stroke-width="11" stroke-linejoin="round"/>
+<rect x="394" y="396" width="200" height="30" rx="15" fill="#848484"/>
+</g>
+</svg>
